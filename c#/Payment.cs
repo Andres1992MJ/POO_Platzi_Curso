@@ -1,5 +1,5 @@
 public class Payment
 {
- public int id { get; set; }
+ public int Id { get; set; }
  
 }
